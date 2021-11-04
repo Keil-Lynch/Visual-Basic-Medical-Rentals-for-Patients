@@ -1,4 +1,4 @@
-# Visual-Basic-Medical-Rentals-for-Patientss
+# Visual-Basic-Medical-Rentals-for-Patients
 This application is to generate rental rates and display a patient bill.
 
 1. In this application, the user will click on the Display Rental Rates
